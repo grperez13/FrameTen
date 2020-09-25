@@ -1,0 +1,17 @@
+.circles {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: red;
+  line-height: 200px;
+  display: inline-flex;
+}
+
+/* .circlesContainer {
+  position: absolute;
+  top: 1;
+  left: 30px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 200px;
+} */
